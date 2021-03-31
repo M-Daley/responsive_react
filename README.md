@@ -2,7 +2,7 @@ A sample responsive 1 page info site built using react and basic CSS.
 
 # Responsive in React
 
-![](./assets/readMe_Image.png)
+![](./assets/readME_Image.png)
 
 Run Locally
 ```
